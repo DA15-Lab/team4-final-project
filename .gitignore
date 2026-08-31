@@ -1,0 +1,26 @@
+# 가상환경
+.venv/
+venv/
+
+# 파이썬 캐시 & 주피터 체크포인트
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 데이터 및 덤프 파일 (대용량 방지)
+data/
+*.csv
+*.tsv
+*.parquet
+*.dump
+*.sql.gz
+*.zip
+
+# 환경 변수 및 보안
+.env
+
+# OS 및 IDE 캐시
+.DS_Store
+.vscode/
+.idea/
+.cursor/
