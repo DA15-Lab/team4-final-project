@@ -8,13 +8,21 @@ __pycache__/
 .ipynb_checkpoints/
 
 # 데이터 및 덤프 파일 (대용량 방지)
-data/
+data/raw/*
+data/interim/*
+data/processed/*
+
 *.csv
 *.tsv
 *.parquet
 *.dump
 *.sql.gz
 *.zip
+
+# 폴더 구조 유지
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
 
 # 환경 변수 및 보안
 .env
