@@ -32,3 +32,7 @@ data/processed/*
 .vscode/
 .idea/
 .cursor/
+
+# 자체 결과 파일
+step23_four_results/
+step23_presentation_results/
