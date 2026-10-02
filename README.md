@@ -347,11 +347,7 @@ UX/UI A/B Test
 - Step 4 → 5 결제 전환
 - 무료 보상 누적과 30일 결제율
 
-> 대시보드 링크는 프로젝트 환경에 맞게 추가해 주세요.
-
-```md
-[📊 Looker Studio Dashboard](대시보드_URL)
-```
+[📊 [Dashboard](https://datastudio.google.com/reporting/c228ff0c-9ace-4d31-9511-fa9867d1479e/page/hAFAG)
 
 ---
 
